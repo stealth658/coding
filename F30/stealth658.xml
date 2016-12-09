@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <FDL>
 <cafd id="000024C3" name="FLE_02" author="stealth658" series="F030">
-	<code description="F3x NGHB Coding - Apply to both FLEs">
+	<code description="F3x LCI NGHB Coding - Apply to both FLEs">
 		<group id="3003">
 			<function start="20" end="29" mask="11111111b">04_Value</function>
 			<function start="30" end="39" mask="11111111b">04_Value</function>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<FDL>
+<cafd id="000024C3" name="FLE_02" author="stealth658" series="F030">
+	<code description="F3x NGHB Coding - Apply to both FLEs">
+		<group id="3003">
+			<function start="20" end="29" mask="11111111b">04_Value</function>
+			<function start="30" end="39" mask="11111111b">04_Value</function>
+			<function start="120" end="129" mask="11111111b">04_Value</function>
+			<function start="130" end="139" mask="11111111b">06_Value</function>
+			<function start="140" end="149" mask="11111111b">06_Value</function>
+		</group>
+		<group id="3004">
+			<function start="0" end="9" mask="11111111b">05_Value</function>
+			<function start="10" end="19" mask="11111111b">06_Value</function>
+			<function start="20" end="29" mask="11111111b">06_Value</function>
+			<function start="30" end="39" mask="11111111b">06_Value</function>
+			<function start="40" end="49" mask="11111111b">06_Value</function>
+			<function start="60" end="69" mask="11111111b">06_Value</function>
+			<function start="70" end="79" mask="11111111b">06_Value</function>
+			<function start="80" end="89" mask="11111111b">06_Value</function>
+			<function start="90" end="99" mask="11111111b">06_Value</function>
+			<function start="100" end="109" mask="11111111b">06_Value</function>
+			<function start="110" end="119" mask="11111111b">06_Value</function>
+			<function start="120" end="129" mask="11111111b">07_Value</function>
+			<function start="130" end="139" mask="11111111b">04_Value</function>
+			<function start="140" end="149" mask="11111111b">04_Value</function>
+			<function start="150" end="159" mask="11111111b">07_Value</function>
+			<function start="160" end="169" mask="11111111b">06_Value</function>
+			<function start="180" end="189" mask="11111111b">05_Value</function>
+		</group>
+		<group id="3000">
+			<function start="4" end="4" mask="11110000b">01_Value</function>
+		</group>
+		<group id="3005">
+			<function start="3" end="3" mask="01000000b">01_Value</function>
+			<function start="11" end="11" mask="01000000b">01_Value</function>
+			<function start="15" end="15" mask="01000000b">01_Value</function>
+			<function start="16" end="16" mask="11111111b">03_Value</function>
+			<function start="17" end="17" mask="11111111b">02_Value</function>
+			<function start="18" end="18" mask="11111111b">02_Value</function>
+			<function start="19" end="19" mask="01000000b">01_Value</function>
+			<function start="20" end="20" mask="11111111b">03_Value</function>
+			<function start="21" end="21" mask="11111111b">03_Value</function>
+			<function start="22" end="22" mask="11111111b">03_Value</function>
+			<function start="23" end="23" mask="01000000b">01_Value</function>
+			<function start="23" end="23" mask="11111111b">01_Value</function>
+			<function start="24" end="24" mask="11111111b">01_Value</function>
+			<function start="25" end="25" mask="11111111b">03_Value</function>
+			<function start="27" end="27" mask="01000000b">01_Value</function>
+			<function start="31" end="31" mask="00001111b">04_Value</function>
+			<function start="31" end="31" mask="01000000b">01_Value</function>
+			<function start="36" end="36" mask="11111111b">03_Value</function>
+			<function start="39" end="39" mask="00001111b">01_Value</function>
+			<function start="39" end="39" mask="01000000b">01_Value</function>
+			<function start="40" end="40" mask="11111111b">03_Value</function>
+			<function start="43" end="43" mask="00001111b">03_Value</function>
+			<function start="44" end="44" mask="11111111b">03_Value</function>
+			<function start="47" end="47" mask="00001111b">03_Value</function>
+			<function start="47" end="47" mask="01000000b">01_Value</function>
+			<function start="48" end="48" mask="11111111b">01_Value</function>
+			<function start="51" end="51" mask="00001111b">03_Value</function>
+			<function start="51" end="51" mask="01000000b">01_Value</function>
+			<function start="53" end="53" mask="11111111b">02_Value</function>
+			<function start="54" end="54" mask="11111111b">02_Value</function>
+			<function start="55" end="55" mask="00001111b">02_Value</function>
+			<function start="56" end="56" mask="11111111b">02_Value</function>
+			<function start="57" end="57" mask="11111111b">01_Value</function>
+			<function start="58" end="58" mask="11111111b">01_Value</function>
+			<function start="59" end="59" mask="00001111b">02_Value</function>
+			<function start="59" end="59" mask="01000000b">01_Value</function>
+			<function start="60" end="60" mask="11111111b">02_Value</function>
+			<function start="63" end="63" mask="10000000b">01_Value</function>
+			<function start="64" end="64" mask="11111111b">01_Value</function>
+			<function start="65" end="65" mask="11111111b">01_Value</function>
+			<function start="66" end="66" mask="11111111b">01_Value</function>
+			<function start="67" end="67" mask="00001111b">01_Value</function>
+			<function start="71" end="71" mask="00001111b">01_Value</function>
+			<function start="71" end="71" mask="10000000b">01_Value</function>
+			<function start="72" end="72" mask="11111111b">01_Value</function>
+			<function start="73" end="73" mask="11111111b">01_Value</function>
+			<function start="74" end="74" mask="11111111b">01_Value</function>
+			<function start="75" end="75" mask="00001111b">01_Value</function>
+			<function start="134" end="134" mask="00111111b">02_Value</function>
+			<function start="134" end="134" mask="11000000b">02_Value</function>
+			<function start="135" end="135" mask="11111100b">02_Value</function>
+			<function start="136" end="136" mask="00111111b">02_Value</function>
+			<function start="136" end="136" mask="11000000b">02_Value</function>
+			<function start="137" end="137" mask="11111100b">02_Value</function>
+			<function start="138" end="138" mask="00111111b">02_Value</function>
+			<function start="138" end="138" mask="11000000b">02_Value</function>
+			<function start="139" end="139" mask="11111100b">02_Value</function>
+			<function start="140" end="140" mask="00111111b">02_Value</function>
+			<function start="140" end="140" mask="11000000b">02_Value</function>
+			<function start="141" end="141" mask="11111100b">02_Value</function>
+			<function start="142" end="142" mask="00111111b">02_Value</function>
+			<function start="142" end="142" mask="11000000b">02_Value</function>
+			<function start="143" end="143" mask="11111100b">02_Value</function>
+			<function start="144" end="144" mask="00111111b">02_Value</function>
+			<function start="144" end="144" mask="11000000b">02_Value</function>
+			<function start="145" end="145" mask="00000011b">01_Value</function>
+			<function start="145" end="145" mask="11111100b">02_Value</function>
+			<function start="146" end="146" mask="00111111b">02_Value</function>
+			<function start="146" end="146" mask="11000000b">02_Value</function>
+			<function start="147" end="147" mask="00000011b">01_Value</function>
+			<function start="147" end="147" mask="11111100b">02_Value</function>
+			<function start="148" end="148" mask="00111111b">02_Value</function>
+			<function start="148" end="148" mask="11000000b">02_Value</function>
+			<function start="149" end="149" mask="00000011b">01_Value</function>
+			<function start="149" end="149" mask="11111100b">02_Value</function>
+			<function start="150" end="150" mask="00111111b">02_Value</function>
+			<function start="150" end="150" mask="11000000b">02_Value</function>
+			<function start="151" end="151" mask="00000011b">01_Value</function>
+			<function start="151" end="151" mask="11111100b">02_Value</function>
+		</group>
+	</code>
+</cafd>
+</FDL>
